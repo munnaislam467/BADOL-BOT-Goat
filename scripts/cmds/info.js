@@ -36,7 +36,7 @@ module.exports = {
 
       const img = `https://graph.facebook.com/100001381266797/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`;
 
-      const msg = `╔╝❮${name}❯╚╗\n━━━━━━━━━━━━━━━━━━━━━━\n𝐍𝐀𝐌𝐄: 𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐃𝐎𝐋\n𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍: 𝐈𝐒𝐋𝐀𝐌\n𝐀𝐃𝐃𝐑𝐄𝐒𝐒: 𝐊𝐇𝐔𝐋𝐍𝐀\n𝐆𝐄𝐍𝐃𝐄𝐑: 𝐌𝐀𝐋𝐄\n𝐀𝐆𝐄: 𝟐𝟕\n𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏: 𝐌𝐀𝐑𝐑𝐄𝐃\n𝐖𝐎𝐑𝐊: 𝐉𝐎𝐁\n𝐆𝐌𝐀𝐈𝐋: mohammadbadal757@gmail.com\n𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: https://m.me/MBC.K1NG.007 \n𝐌𝐀𝐒𝐒𝐄𝐍𝐆𝐄𝐑: m.me/100001381266797\n𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: wa.me/+8801782721761\n𝐈𝐌𝐎: 01782-721761\n𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌: @BADOL_VAI_TERA_REAL_ABBU_OK\n━━━━━━━━━━━━━━━━━━━━━━\n\nBot Prefix: ( . )\nBot Name: 𝐌𝐈𝐌-𝐁𝐎𝐓___//𝟎𝟎𝟕\ngc Name: ${threadName}\nTime:【 ${date} || ${time} \n━━━━━━━━━━━━━━━━━━━━━━`;
+      const msg = `╔╝❮${name}❯╚╗\n━━━━━━━━━━━━━━━━━━━━━━\n𝐍𝐀𝐌𝐄: 𝙼𝚁 𝙼𝚄𝙽𝙽𝙰\n𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍: 𝐈𝐒𝐋𝐀𝐌\n𝐀𝐃𝐃𝐑𝐄𝐒𝐒: 𝙳𝙷𝙰𝙺𝙰\n𝐆𝐄𝐍𝐃𝐄𝐑: 𝐌𝐀𝐋𝐄\n𝐀𝐆𝐄: 19\n𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏: 𝚂𝙸𝙽𝙶𝙴𝙻\n𝐖𝐎𝐑𝐊: 𝐉𝐎𝐁\n𝐆𝐌𝐀𝐈𝐋: 𝙼𝚍𝚖𝚞𝚗𝚗𝚊𝚒𝚜𝚕𝚊𝚖487@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖\n𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: https://www.facebook.com/profile.php?id=100052908496353&mibextid=ZbWKwL \n𝐌𝐀𝐒𝐒𝐄𝐍𝐆𝐄𝐑: m.me/100094625323739\n𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: wa.me/+8801923962769\n𝐈𝐌𝐎: 01923862769\n𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌: ni\n━━━━━━━━━━━━━━━━━━━━━━\n\nBot Prefix: ( / )\nBot Name: MUNNA-𝐁𝐎𝐓___//143\ngc Name: ${threadName}\nTime:【 ${date} || ${time} \n━━━━━━━━━━━━━━━━━━━━━━`;
 
       message.reply({
         body: msg,
