@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "info",
     version: "1.0",
-    author: "MUNNA", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/MBC.K1NG.007 **//
+    author: "MUNNA", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://www.facebook.com/profile.php?id=100094625323739 **//
     countDown: 5,
     role: 0,
     shortDescription: "admin and info",
@@ -36,7 +36,7 @@ module.exports = {
 
       const img = `https://graph.facebook.com/100001381266797/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`;
 
-      const msg = `╔╝❮${name}❯╚╗\n━━━━━━━━━━━━━━━━━━━━━━\n𝐍𝐀𝐌𝐄: 𝙼𝚁 𝙼𝚄𝙽𝙽𝙰\n𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍: 𝐈𝐒𝐋𝐀𝐌\n𝐀𝐃𝐃𝐑𝐄𝐒𝐒: 𝙳𝙷𝙰𝙺𝙰\n𝐆𝐄𝐍𝐃𝐄𝐑: 𝐌𝐀𝐋𝐄\n𝐀𝐆𝐄: 19\n𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏: 𝚂𝙸𝙽𝙶𝙴𝙻\n𝐖𝐎𝐑𝐊: 𝐉𝐎𝐁\n𝐆𝐌𝐀𝐈𝐋: 𝙼𝚍𝚖𝚞𝚗𝚗𝚊𝚒𝚜𝚕𝚊𝚖487@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖\n𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: https://www.facebook.com/profile.php?id=100052908496353&mibextid=ZbWKwL \n𝐌𝐀𝐒𝐒𝐄𝐍𝐆𝐄𝐑: m.me/100094625323739\n𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: wa.me/+8801923962769\n𝐈𝐌𝐎: 01923862769\n𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌: ni\n━━━━━━━━━━━━━━━━━━━━━━\n\nBot Prefix: ( / )\nBot Name: MUNNA-𝐁𝐎𝐓___//143\ngc Name: ${threadName}\nTime:【 ${date} || ${time} \n━━━━━━━━━━━━━━━━━━━━━━`;
+      const msg = `╔╝❮${name}❯╚╗\n━━━━━━━━━━━━━━━━━━━━━━\n𝐍𝐀𝐌𝐄:MUNNA\n𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍: 𝐈𝐒𝐋𝐀𝐌\n𝐀𝐃𝐃𝐑𝐄𝐒𝐒: 𝙳𝙷𝙰𝙺𝙰\n𝐆𝐄𝐍𝐃𝐄𝐑: 𝐌𝐀𝐋𝐄\n𝐀𝐆𝐄: 19\n𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏: 𝚂𝙸𝙽𝙶𝙴𝙻\n𝐖𝐎𝐑𝐊: 𝐉𝐎𝐁\n𝐆𝐌𝐀𝐈𝐋: 𝙼𝚍𝚖𝚞𝚗𝚗𝚊𝚒𝚜𝚕𝚊𝚖487@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖\n𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: https://www.facebook.com/profile.php?id=100052908496353&mibextid=ZbWKwL \n𝐌𝐀𝐒𝐒𝐄𝐍𝐆𝐄𝐑: m.me/100094625323739\n𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: wa.me/+8801923962769\n𝐈𝐌𝐎: 01923862769\n𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌: ni\n━━━━━━━━━━━━━━━━━━━━━━\n\nBot Prefix: ( / )\nBot Name: MUNNA-𝐁𝐎𝐓___//143\ngc Name: ${threadName}\nTime:【 ${date} || ${time} \n━━━━━━━━━━━━━━━━━━━━━━`;
 
       message.reply({
         body: msg,
