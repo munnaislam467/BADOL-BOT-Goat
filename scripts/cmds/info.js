@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "info",
     version: "1.0",
-    author: "MUNNA", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://www.facebook.com/profile.php?id=100094625323739 **//
+    author: "MOHAMMAD-BADOL", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://www.facebook.com/profile.php?id=100094625323739 **//
     countDown: 5,
     role: 0,
     shortDescription: "admin and info",
